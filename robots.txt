@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationtinleypark.com/sitemap.xml
